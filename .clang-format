@@ -1,0 +1,12 @@
+Language: Cpp
+BasedOnStyle: WebKit
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBraces: Attach
+ColumnLimit: '140'
+IndentWidth: '4'
+SpaceBeforeParens: ControlStatements
+Standard: Auto
+TabWidth: '4'
+CompactNamespaces: false
+FixNamespaceComments: true
+UseTab: Never
